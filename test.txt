@@ -1,10 +1,7 @@
-test
-<<<<<<< HEAD
+test1
 
 codey has small balls
-=======
 balls
->>>>>>> 2e91c9ebc7da1da9c9b740cc161a347746d959f2
 
 Hello
 
